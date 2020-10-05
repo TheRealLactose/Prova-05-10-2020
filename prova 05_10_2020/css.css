@@ -1,0 +1,47 @@
+body,p{
+    margin: 0px;
+    padding: 0px;
+    background: red;
+}
+#menu{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(61, 61, 61);
+}
+
+h1{
+    text-align: center;
+    background-image: url(background.jpg);
+    background-size: cover;
+    padding-bottom:700px ;
+    padding: 20%;
+}
+.logo{
+    width: 100px;
+}
+.tw{
+    width: 50px;
+}
+.yt{
+    width: 50px;
+}
+.fb{
+    width: 50px;
+}
+.redes_sociais{
+    display: flex;
+}
+.area1{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(73, 73, 73);
+}
+.contatos{
+    margin: auto;
+}
+.copy{
+    background: black;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
